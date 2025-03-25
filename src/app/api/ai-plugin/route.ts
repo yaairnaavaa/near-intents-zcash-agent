@@ -11,7 +11,7 @@ export async function GET() {
         },
         servers: [
             {
-                url: "",
+                url: "https://near-intents-zcash-agent.vercel.app/",
             },
         ],
         "x-mb": {
